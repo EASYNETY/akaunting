@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/akaunting/static/js/main.ec87a580.js",
+    "static/js/787.d257c9b9.chunk.js": "/akaunting/static/js/787.d257c9b9.chunk.js",
+    "index.html": "/akaunting/index.html",
+    "main.ec87a580.js.map": "/akaunting/static/js/main.ec87a580.js.map",
+    "787.d257c9b9.chunk.js.map": "/akaunting/static/js/787.d257c9b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ec87a580.js"
+  ]
+}
